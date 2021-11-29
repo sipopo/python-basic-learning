@@ -2,5 +2,7 @@
 
 Изучения основ python
 
-[Day 1 - Установка, традиционный Hello World](01_Day-01/Day_01.md)
+[Day 1 - Установка, традиционный Hello World](Day-01/Day_01.md)
+[Day 1 - Обсудим переменные](Day-02/Day_02.md)
+
 
